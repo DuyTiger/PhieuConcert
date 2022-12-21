@@ -1,0 +1,74 @@
+footer {
+    background-image: url(../imgs/footer-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    background: rgba(85, 75, 185, .95);
+    text-align: end;
+}
+
+footer .contact {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+footer .row {
+    width: 100%;
+    border-bottom: 2px solid #FFF;
+}
+
+.col-lg-4 {
+    padding: 30px 0;
+    text-align: start;
+}
+
+.col-lg-4 h3 {
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: .005rem;
+    text-transform: uppercase;
+}
+
+.col-lg-4 .day {
+    margin: 15px 0;
+    color: #efa506;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+footer .icon i {
+    transform: translateY(-25px);
+}
+
+footer .icon a {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(88, 90, 112);
+    display: inline-block;
+    color: #fff;
+    line-height: 100px;
+    text-align: center !important;
+    font-size: 25px;
+    border-radius: 50%;
+    margin: 20px 0px;
+    transition: 0.5s;
+    box-shadow: rgba(255, 1, 1, 0.17) 0px -23px 25px 0px inset, rgba(75, 3, 245, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+footer .icon a:hover {
+    transform: translateY(-10px);
+}
+
+footer.icon {
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer .end {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 0;
+    color: #efa506;
+    font-size: 15px;
+}
